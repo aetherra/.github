@@ -1,7 +1,7 @@
 <p align="center">
 <img src="/assets/aetherra-og.png" height="250">
   <br>
-<a href="https://aetherra.org">website</a> | <a href="https://discord.gg/AsfQ4ZhqHC">discord</a>
+<a href="https://aetherra.org">website</a> <b>⸱</b> <a href="https://discord.gg/AsfQ4ZhqHC">discord</a> <b>⸱</b> <a href="mailto:hi@aetherra.org">email</a>
 </p>
 <h2>Projects</h2>
 <h3>Stardust</h3>
