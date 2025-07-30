@@ -1,6 +1,9 @@
 <p align="center">
-<img src="/assets/aetherra-og.png" height="250">
-  <br>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="/banner-dark.png">
+<img src="/assets/banner-light.png" height="250">
+</picture>
+<br>
 <a href="https://aetherra.org">website</a> <b>⸱</b> <a href="https://discord.gg/AsfQ4ZhqHC">discord</a> <b>⸱</b> <a href="mailto:hi@aetherra.org">email</a>
 </p>
 <h2>Projects</h2>
