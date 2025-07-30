@@ -1,6 +1,6 @@
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="/banner-dark.png">
+<source media="(prefers-color-scheme: dark)" srcset="/assets/banner-dark.png">
 <img src="/assets/banner-light.png" height="250">
 </picture>
 <br>
