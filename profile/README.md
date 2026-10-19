@@ -4,7 +4,10 @@
 <img src="/assets/banner-light.png" height="250">
 </picture>
 <br>
-<a href="https://aetherra.org">website</a> <b>⸱</b> <a href="https://discord.gg/AsfQ4ZhqHC">discord</a> <b>⸱</b> <a href="mailto:hi@aetherra.org">email</a>
+
+<h1>Aevant Open Source</h1>
+  
+<a href="https://aetherra.org">website</a> <b>⸱</b> <a href="mailto:oss@aevant.net">email</a>
 </p>
 <h2>Projects</h2>
 <h3>Stardust</h3>
